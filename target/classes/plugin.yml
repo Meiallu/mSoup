@@ -1,0 +1,6 @@
+name: mSoup
+description: Regen life when right-clicking a soup.
+version: '1.2'
+main: me.meiallu.msoup.MSoup
+author: Meiallu
+depend: [ ProtocolLib ]
